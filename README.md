@@ -1,4 +1,5 @@
 PRESENTATION-WindowsAzureHDInsight
-==================================
+======================================
 
-Windows Azure HDInsight Service Presentation
+Windows Azure HDInsight Service
+
